@@ -16,6 +16,8 @@ function App() {
     <Greeting name = {name}/>
     <Greeting name = {'Akash'}/>
     <Greeting name = {'Ayush'}/>
+    
+  
 
     </div>
   );
